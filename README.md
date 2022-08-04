@@ -16,6 +16,6 @@
 ### Time taken to complete this project:
 - It took 2 hour to complete.
 
-**Live Link :** [Deployed Link](https://html-css-project-03.vercel.app/)
+**Live Link :** [Deployed Link](https://html-css-project-03.netlify.app/)
 >### Preview :
 ![Homepage screenshot](preview.png " Law Home Page ")
