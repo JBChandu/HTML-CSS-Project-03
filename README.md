@@ -18,4 +18,4 @@
 
 **Live Link :** [Deployed Link](https://html-css-project-03.vercel.app/)
 >### Preview :
-![Homepage screenshot](./public/LawHomePage.png " Law Home Page ")
+![Homepage screenshot](preview.png " Law Home Page ")
