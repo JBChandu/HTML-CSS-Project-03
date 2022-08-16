@@ -113,7 +113,9 @@ margin-top:10px;
   .hero-left h1 {
     font-size: 30px;
   }
-  .navbar div,
+  .navbar div {
+    margin-left: -10%;
+  }
   .hero {
     margin-left: -20%;
   }
