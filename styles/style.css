@@ -84,3 +84,55 @@ margin-top:10px;
 .arrow-btns div:first-child {
   background-color: rgb(104, 102, 102);
 }
+/* Media Queries */
+@media only screen and (max-width: 945px) {
+  section.hero {
+    flex-direction: column;
+  }
+  section.hero .hero-right p {
+    margin-left: 50%;
+    padding-top: 5%;
+    width: 300px;
+  }
+  .hero-right p {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
+@media only screen and (max-width: 788px) {
+  .list-item {
+    display: none;
+  }
+  .list-item-btn {
+    font-size: 12px;
+    padding: 2px 4px;
+    margin-right: -10%;
+  }
+}
+@media only screen and (max-width: 788px) {
+  .hero-left h1 {
+    font-size: 30px;
+  }
+  .navbar div,
+  .hero {
+    margin-left: -20%;
+  }
+  .hero-right p {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 16px;
+  }
+  .list-item-btn {
+    margin-right: -15%;
+    margin-left: 5%;
+  }
+}
+@media only screen and (max-width: 522px) {
+  .navbar div,
+  .hero {
+    margin-left: -25%;
+  }
+  .list-item-btn {
+    margin-right: -24%;
+  }
+}
